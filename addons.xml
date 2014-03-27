@@ -9,7 +9,7 @@
 		</extension>
 		<extension point="xbmc.addon.metadata">
 			<summary lang="en">beeg.com (Adult)</summary>
-			<description lang="en">beeg.com (Adult) - Powered by XBMCHUB.COM</description>
+			<description lang="en">beeg.com (Adult)</description>
 			<license>GPL 3.0</license>
 			<platform>all</platform>
 		</extension>
@@ -32,15 +32,13 @@
 
 	<addon id="repository.MisterX" name="MisterX Repository" version="1.0.9" provider-name="MisterX">
 		<extension point="xbmc.addon.repository" name="MisterX addon repository">
-        	<info compressed="false">https://raw.github.com/rodrigoke/XBMC.repo/master/addons.xml</info>
-
-			<info compressed="false">https://raw.github.com/MisterXx/MisterX/master/addons.xml</info>
-			<checksum>https://raw.github.com/MisterXx/MisterX/master/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.github.com/MisterXx/MisterX/master/zips</datadir>
+			<info compressed="false">https://raw.github.com/htpcforall/MisterX/master/addons.xml</info>
+			<checksum>https://raw.github.com/htpcforall/MisterX/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.github.com/htpcforall/MisterX/master/zips</datadir>
 		</extension>
 		<extension point="xbmc.addon.metadata">
-			<summary>MisterX Addon Repository</summary>
-			<description>Addons developed by MisterX - Powered by XBMCHUB.COM</description>
+			<summary>htpcforall repaired copy of MisterX Addon Repository</summary>
+			<description>Addons developed by MisterX</description>
 			<platform>all</platform>
 		</extension>
 	</addon>
