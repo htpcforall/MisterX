@@ -6,7 +6,7 @@
 			<datadir zip="true">https://raw.github.com/htpcforall/MisterX/master/zips</datadir>
 		</extension>
 		<extension point="xbmc.addon.metadata">
-			<summary>htpcfor all fixed copy of MisterX Addon Repository</summary>
+			<summary>htpcforall fixed copy of MisterX Addon Repository</summary>
 			<description>Addons developed by MisterX</description>
 			<platform>all</platform>
 		</extension>
