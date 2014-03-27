@@ -1,5 +1,6 @@
 MisterX
-==MisterX XBMC Repo
+== MisterX XBMC Repo
 
-All Credit goes to the original deveoper. 
-The repo was not working so I cloned it to make a working copy
+All Credit goes to the original developer.
+
+The original repo was not working so I forked it to make a working copy
