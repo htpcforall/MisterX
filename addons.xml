@@ -8,8 +8,8 @@
 			<provides>video</provides>
 		</extension>
 		<extension point="xbmc.addon.metadata">
-			<summary lang="en">beeg.com (Adult)</summary>
-			<description lang="en">beeg.com (Adult)</description>
+			<summary lang="en">beeg.com</summary>
+			<description lang="en">beeg.com</description>
 			<license>GPL 3.0</license>
 			<platform>all</platform>
 		</extension>
